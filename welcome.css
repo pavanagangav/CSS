@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+video{
+    width: 100%;
+}
+/* h1{ */
+    color:blueviolet;
+    font-size: 500%;
+    font-weight: 200;
+    font-family: 'Arial;
+ }
+p{
+    max-width: 100px;
+}
+a{
+text-decoration: none;
+color:red;
+}
+h1{
+    background-color: aquamarine;
+    max-width: 200px;
+    margin: 20px 30px;
+    padding: 10px 10px;
+
+}
